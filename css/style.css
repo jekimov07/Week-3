@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: rgb(105, 196, 210);
+}
+
+.container{
+    background-color: rgb(97, 201, 101);
+    width: 75%;
+    margin: 20px auto;
+}
+
+
+#red{
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: 4px solid grey;
+    margin: 0 auto;
+}
+
+#green{
+    width: 150px;
+    height: 150px;
+    background-color: green;
+    border: 4px solid powderblue;
+    margin: 10px auto;
+    padding: 20px;
+}
+    
+#yellow{
+    width: 150px;
+    height: 150px;
+    background-color: yellow;
+    border: 4px solid salmon;
+    margin: 10px auto;
+    padding: 50px;
+    text-align: center;
+}
